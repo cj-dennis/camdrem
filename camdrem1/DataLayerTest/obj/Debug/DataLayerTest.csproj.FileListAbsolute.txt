@@ -1,0 +1,7 @@
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\DataLayerTest\bin\Debug\DataLayerTest.dll
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\DataLayerTest\bin\Debug\DataLayerTest.pdb
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\DataLayerTest\bin\Debug\Data.dll
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\DataLayerTest\bin\Debug\Data.pdb
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\DataLayerTest\obj\Debug\DataLayerTest.csprojResolveAssemblyReference.cache
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\DataLayerTest\obj\Debug\DataLayerTest.dll
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\DataLayerTest\obj\Debug\DataLayerTest.pdb

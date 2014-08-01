@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "camdrem1", "camdrem1\camdrem1.csproj", "{70232A1C-77B4-4E6D-AFC6-99E91312B375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{EDD54D12-19E1-4994-BAAC-51BF9CB334C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayerTest", "DataLayerTest\DataLayerTest.csproj", "{759D74B5-F162-463A-AB0B-8F2D295D229D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modelClasses", "modelClasses\modelClasses.csproj", "{948BD510-86F2-44A1-8E6D-CF4C6A9AFEC0}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://td-pc:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = camdrem1\\camdrem1.csproj
+		SccProjectName1 = camdrem1
+		SccLocalPath1 = camdrem1
+		SccProjectUniqueName2 = Data\\Data.csproj
+		SccProjectName2 = Data
+		SccLocalPath2 = Data
+		SccProjectUniqueName3 = DataLayerTest\\DataLayerTest.csproj
+		SccProjectName3 = DataLayerTest
+		SccLocalPath3 = DataLayerTest
+		SccProjectUniqueName4 = modelClasses\\modelClasses.csproj
+		SccProjectName4 = modelClasses
+		SccLocalPath4 = modelClasses
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70232A1C-77B4-4E6D-AFC6-99E91312B375}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70232A1C-77B4-4E6D-AFC6-99E91312B375}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70232A1C-77B4-4E6D-AFC6-99E91312B375}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70232A1C-77B4-4E6D-AFC6-99E91312B375}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD54D12-19E1-4994-BAAC-51BF9CB334C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD54D12-19E1-4994-BAAC-51BF9CB334C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD54D12-19E1-4994-BAAC-51BF9CB334C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD54D12-19E1-4994-BAAC-51BF9CB334C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759D74B5-F162-463A-AB0B-8F2D295D229D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759D74B5-F162-463A-AB0B-8F2D295D229D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759D74B5-F162-463A-AB0B-8F2D295D229D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759D74B5-F162-463A-AB0B-8F2D295D229D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948BD510-86F2-44A1-8E6D-CF4C6A9AFEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948BD510-86F2-44A1-8E6D-CF4C6A9AFEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948BD510-86F2-44A1-8E6D-CF4C6A9AFEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948BD510-86F2-44A1-8E6D-CF4C6A9AFEC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\Data\bin\Debug\Data.dll
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\Data\bin\Debug\Data.pdb
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\Data\obj\Debug\Data.dll
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\Data\obj\Debug\Data.pdb
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache

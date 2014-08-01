@@ -1,0 +1,7 @@
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\camdrem1\bin\Debug\camdrem1.exe.config
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\camdrem1\bin\Debug\camdrem1.exe
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\camdrem1\bin\Debug\camdrem1.pdb
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\camdrem1\obj\Debug\camdrem1.Properties.Resources.resources
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\camdrem1\obj\Debug\camdrem1.csproj.GenerateResource.Cache
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\camdrem1\obj\Debug\camdrem1.exe
+C:\Users\CJ\documents\visual studio 2012\Projects\camdrem1\camdrem1\obj\Debug\camdrem1.pdb
